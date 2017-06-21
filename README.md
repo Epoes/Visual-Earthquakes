@@ -25,18 +25,18 @@ We illustrate with some use cases how the visualization of hypocenters works and
 </p>
 
 # Use It
-If you just want to play and interact with Visual Earthquakes, you can see the newest version of it [here](rio.inf.usi.ch:38090/visual-earthquakes).
+If you just want to play and interact with Visual Earthquakes, you can see the newest version of it [here](http://rio.inf.usi.ch:38090/visual-earthquakes).
 
 # Start it on your machine 
 If you have more time, you can run it on your machine using the following instructions.
 
-<b> Since the program needs seed the database for all the earthquakes and for the 3D model of Italy, to complete these steps, it may take some days (due to the limited requests per day of Google Maps)</b> 
+<b> Since the program needs to seed the database for all the earthquakes and for the 3D model of Italy, to complete these steps, it may take some days (due to the limited requests per day of Google Maps)</b> 
 
 # Setup instructions
 Prerequisites:
 - Newest version of Java installed
 - MySQL installed
-If you already have it, create a database named `DATABASE_NAME'. Otherwise set an username `USER_DB' and a password `PSWRD_DB' and then create the databes.
+If you already have it, create a database named `DATABASE_NAME`. Otherwise set an username `USER_DB` and a password `PSWRD_DB` and then create the databes.
 - Generate a Google Maps Key on [https://console.developers.google.com](https://console.developers.google.com) (we will refer to it as GOOGLEKEY later).
 Then:
 - Download the repository as a zip.
