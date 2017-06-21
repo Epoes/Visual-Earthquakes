@@ -1,0 +1,7 @@
+com/usi/API/FeedRSS/earthquakeServiceTest.class
+com/usi/BaseIntegration.class
+com/usi/API/EarthquakeHubTest.class
+com/usi/API/FeedRSS/SimpleHttpRequestTest.class
+com/usi/API/FeedRSS/IngvQueryTest.class
+com/usi/API/google_maps/MapsServicesImplTest.class
+com/usi/API/controllers/ControllerTest.class
