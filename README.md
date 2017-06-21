@@ -43,7 +43,7 @@ Then:
 - Unzip the directory.
 
 # Start the application#
-
+Go in the unzipped directory and then run the following comands on the terminal
 ```bash
 mvn clean install
 cd target
